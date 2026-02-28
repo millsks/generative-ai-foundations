@@ -222,3 +222,6 @@ models/
 .vscode/
 .idea/
 # === genai-book-scaffold (added) END ===
+# pixi environments
+.pixi/*
+!.pixi/config.toml
