@@ -9,3 +9,4 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.13.*"
+rust = ">=1.93.1,<1.94"
